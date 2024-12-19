@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: e51acd9d3d52fb44db464912d080689b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6173137081534688197
+    second: tutorial 1 arabic_0
+  - first:
+      213: -2030982324408621537
+    second: tutorial 1 arabic_1
+  - first:
+      213: -9204804752220720072
+    second: tutorial 1 arabic_2
+  - first:
+      213: -4074839988127107259
+    second: tutorial 1 arabic_3
+  - first:
+      213: 8227216176269974442
+    second: tutorial 1 arabic_4
+  - first:
+      213: 7442798924325791108
+    second: tutorial 1 arabic_5
+  - first:
+      213: -152892564381601092
+    second: tutorial 1 arabic_6
+  - first:
+      213: -1560788008665980666
+    second: tutorial 1 arabic_7
+  - first:
+      213: 2083464726051729408
+    second: tutorial 1 arabic_8
+  - first:
+      213: 5931654034680651725
+    second: tutorial 1 arabic_9
+  - first:
+      213: 5814616334620353129
+    second: tutorial 1 arabic_10
+  - first:
+      213: 3119924931494780803
+    second: tutorial 1 arabic_11
+  - first:
+      213: -5938079723313360175
+    second: tutorial 1 arabic_12
+  - first:
+      213: -8466887585941035773
+    second: tutorial 1 arabic_13
+  - first:
+      213: -8418592087499266533
+    second: tutorial 1 arabic_14
+  - first:
+      213: -401169218862591939
+    second: tutorial 1 arabic_15
+  - first:
+      213: -9029119931639408109
+    second: tutorial 1 arabic_16
+  - first:
+      213: 2541480051593437413
+    second: tutorial 1 arabic_17
+  - first:
+      213: 8428334922209921883
+    second: tutorial 1 arabic_18
+  - first:
+      213: 1329693193773263138
+    second: tutorial 1 arabic_19
+  - first:
+      213: 7302108194098819955
+    second: tutorial 1 arabic_20
+  - first:
+      213: -5660160011698852510
+    second: tutorial 1 arabic_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tutorial 1 arabic_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 88
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b345551f78c945aa0800000000000000
+      internalID: -6173137081534688197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1 arabic_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 92
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16e688265080d3e0800000000000000
+      internalID: -2030982324408621537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1 arabic_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 92
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8347e05d8d6f14080800000000000000
+      internalID: -9204804752220720072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1 arabic_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 88
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5477027ce924377c0800000000000000
+      internalID: -4074839988127107259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1 arabic_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 88
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab5becc581fc2270800000000000000
+      internalID: 8227216176269974442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1 arabic_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 88
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485291320322a4760800000000000000
+      internalID: 7442798924325791108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1 arabic_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 91
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb27c33d501d0edf0800000000000000
+      internalID: -152892564381601092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1 arabic_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 62
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60166c55397f65ae0800000000000000
+      internalID: -1560788008665980666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1 arabic_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 65
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000be523124f9ec10800000000000000
+      internalID: 2083464726051729408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1 arabic_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 62
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf17a3dae7715250800000000000000
+      internalID: 5931654034680651725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1 arabic_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 65
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962ea3acfbaa1b050800000000000000
+      internalID: 5814616334620353129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1 arabic_11
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 62
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f91a3f1333c4b20800000000000000
+      internalID: 3119924931494780803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1 arabic_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d215f3f3f3b79da0800000000000000
+      internalID: -5938079723313360175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1 arabic_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 38
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305e1de99929f7a80800000000000000
+      internalID: -8466887585941035773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1 arabic_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 38
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1621bb99172b2b80800000000000000
+      internalID: -8418592087499266533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1 arabic_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 34
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30dfde88b2ce6af0800000000000000
+      internalID: -401169218862591939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1 arabic_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 34
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31adb30b24f12b280800000000000000
+      internalID: -9029119931639408109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1 arabic_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 34
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0e7fe34a6254320800000000000000
+      internalID: 2541480051593437413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1 arabic_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 37
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b875ed4f577f470800000000000000
+      internalID: 8428334922209921883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1 arabic_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 7
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2292c1b2ae4047210800000000000000
+      internalID: 1329693193773263138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1 arabic_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 11
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373babcd6bc465560800000000000000
+      internalID: 7302108194098819955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial 1 arabic_21
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 8
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26da1da45721371b0800000000000000
+      internalID: -5660160011698852510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tutorial 1 arabic_0: -6173137081534688197
+      tutorial 1 arabic_1: -2030982324408621537
+      tutorial 1 arabic_10: 5814616334620353129
+      tutorial 1 arabic_11: 3119924931494780803
+      tutorial 1 arabic_12: -5938079723313360175
+      tutorial 1 arabic_13: -8466887585941035773
+      tutorial 1 arabic_14: -8418592087499266533
+      tutorial 1 arabic_15: -401169218862591939
+      tutorial 1 arabic_16: -9029119931639408109
+      tutorial 1 arabic_17: 2541480051593437413
+      tutorial 1 arabic_18: 8428334922209921883
+      tutorial 1 arabic_19: 1329693193773263138
+      tutorial 1 arabic_2: -9204804752220720072
+      tutorial 1 arabic_20: 7302108194098819955
+      tutorial 1 arabic_21: -5660160011698852510
+      tutorial 1 arabic_3: -4074839988127107259
+      tutorial 1 arabic_4: 8227216176269974442
+      tutorial 1 arabic_5: 7442798924325791108
+      tutorial 1 arabic_6: -152892564381601092
+      tutorial 1 arabic_7: -1560788008665980666
+      tutorial 1 arabic_8: 2083464726051729408
+      tutorial 1 arabic_9: 5931654034680651725
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

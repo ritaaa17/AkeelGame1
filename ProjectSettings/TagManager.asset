@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Platform
+  - Spawner
+  - Ramp
+  - Ground
+  - Dune
+  - Checkpoint
+  - Can
+  - Rotation Helper
+  - Wheel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Ramp
+  - Dune
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1- Sky
+    uniqueID: 4035965971
+    locked: 0
+  - name: 2- Clouds
+    uniqueID: 2159653023
+    locked: 0
+  - name: 3- Background
+    uniqueID: 961389995
+    locked: 0
+  - name: 4- Mainground
+    uniqueID: 2666493905
+    locked: 0
+  - name: 5- Foreground
+    uniqueID: 3964365621
+    locked: 0
+  m_RenderingLayers:
+  - Default

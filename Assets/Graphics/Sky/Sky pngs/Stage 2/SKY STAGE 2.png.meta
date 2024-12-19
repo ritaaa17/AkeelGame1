@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 83ff628f52740884ea79581f77c78483
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4509905843544693072
+    second: SKY STAGE 2_0
+  - first:
+      213: -892465070389718426
+    second: SKY STAGE 2_1
+  - first:
+      213: -3546937949879804159
+    second: SKY STAGE 2_2
+  - first:
+      213: -6939673387274055018
+    second: SKY STAGE 2_3
+  - first:
+      213: -7769678879351876987
+    second: SKY STAGE 2_4
+  - first:
+      213: -4062393649404940297
+    second: SKY STAGE 2_5
+  - first:
+      213: -8303342466106381874
+    second: SKY STAGE 2_6
+  - first:
+      213: 4289260152057112667
+    second: SKY STAGE 2_7
+  - first:
+      213: -5902711537013397383
+    second: SKY STAGE 2_8
+  - first:
+      213: -5642950860029972927
+    second: SKY STAGE 2_9
+  - first:
+      213: -4047278690087735916
+    second: SKY STAGE 2_10
+  - first:
+      213: -1938075240898843998
+    second: SKY STAGE 2_11
+  - first:
+      213: -6797530550907917579
+    second: SKY STAGE 2_12
+  - first:
+      213: -5378019584282734788
+    second: SKY STAGE 2_13
+  - first:
+      213: -7423186513109261313
+    second: SKY STAGE 2_14
+  - first:
+      213: 6301184973218720225
+    second: SKY STAGE 2_15
+  - first:
+      213: 4445049532339362242
+    second: SKY STAGE 2_16
+  - first:
+      213: -6410491167371863847
+    second: SKY STAGE 2_17
+  - first:
+      213: -4506489236725772845
+    second: SKY STAGE 2_18
+  - first:
+      213: 8934617021197815748
+    second: SKY STAGE 2_19
+  - first:
+      213: -2139985831521511568
+    second: SKY STAGE 2_20
+  - first:
+      213: 263002663126048806
+    second: SKY STAGE 2_21
+  - first:
+      213: -8062218924948511372
+    second: SKY STAGE 2_22
+  - first:
+      213: 8853305321557638873
+    second: SKY STAGE 2_23
+  - first:
+      213: 7742779637265970349
+    second: SKY STAGE 2_24
+  - first:
+      213: -2071711048903238376
+    second: SKY STAGE 2_25
+  - first:
+      213: 3585643027582847729
+    second: SKY STAGE 2_26
+  - first:
+      213: -302365585350532483
+    second: SKY STAGE 2_27
+  - first:
+      213: -349059633045223451
+    second: SKY STAGE 2_28
+  - first:
+      213: -6486640241577071835
+    second: SKY STAGE 2_29
+  - first:
+      213: -8493887376526408307
+    second: SKY STAGE 2_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SKY STAGE 2_0
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 0
+        width: 3215
+        height: 919
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05990fe5877669e30800000000000000
+      internalID: 4509905843544693072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_1
+      rect:
+        serializedVersion: 2
+        x: 3521
+        y: 0
+        width: 8689
+        height: 919
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6621af83fb35d93f0800000000000000
+      internalID: -892465070389718426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_2
+      rect:
+        serializedVersion: 2
+        x: 16517
+        y: 834
+        width: 150
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fdf012abeb6cec0800000000000000
+      internalID: -3546937949879804159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_3
+      rect:
+        serializedVersion: 2
+        x: 16573
+        y: 826
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6925c4e72d351bf90800000000000000
+      internalID: -6939673387274055018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_4
+      rect:
+        serializedVersion: 2
+        x: 16593
+        y: 833
+        width: 91
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5825069893e8c2490800000000000000
+      internalID: -7769678879351876987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_5
+      rect:
+        serializedVersion: 2
+        x: 16735
+        y: 763
+        width: 197
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff6a65df7a7f97c0800000000000000
+      internalID: -4062393649404940297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_6
+      rect:
+        serializedVersion: 2
+        x: 16397
+        y: 815
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec92053250a94cc80800000000000000
+      internalID: -8303342466106381874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_7
+      rect:
+        serializedVersion: 2
+        x: 16494
+        y: 726
+        width: 201
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b582a900263868b30800000000000000
+      internalID: 4289260152057112667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_8
+      rect:
+        serializedVersion: 2
+        x: 14377
+        y: 656
+        width: 193
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97867b8812b551ea0800000000000000
+      internalID: -5902711537013397383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_9
+      rect:
+        serializedVersion: 2
+        x: 15048
+        y: 763
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14eade6271630b1b0800000000000000
+      internalID: -5642950860029972927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_10
+      rect:
+        serializedVersion: 2
+        x: 15975
+        y: 760
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49def4a897d25d7c0800000000000000
+      internalID: -4047278690087735916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_11
+      rect:
+        serializedVersion: 2
+        x: 16118
+        y: 757
+        width: 83
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aaae3636d29a15e0800000000000000
+      internalID: -1938075240898843998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_12
+      rect:
+        serializedVersion: 2
+        x: 16054
+        y: 724
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faa4439af15aa1a0800000000000000
+      internalID: -6797530550907917579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_13
+      rect:
+        serializedVersion: 2
+        x: 16636
+        y: 734
+        width: 91
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fcbbb9eaf6d55b0800000000000000
+      internalID: -5378019584282734788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_14
+      rect:
+        serializedVersion: 2
+        x: 14229
+        y: 692
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3e6a0323b8bf890800000000000000
+      internalID: -7423186513109261313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_15
+      rect:
+        serializedVersion: 2
+        x: 15774
+        y: 665
+        width: 159
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e92bb8195e427750800000000000000
+      internalID: 6301184973218720225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_16
+      rect:
+        serializedVersion: 2
+        x: 16119
+        y: 707
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c99a10bffcffad30800000000000000
+      internalID: 4445049532339362242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_17
+      rect:
+        serializedVersion: 2
+        x: 16349
+        y: 685
+        width: 152
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8550d5f3c5907a0800000000000000
+      internalID: -6410491167371863847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 653
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddc6d46aebb571c0800000000000000
+      internalID: -4506489236725772845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_19
+      rect:
+        serializedVersion: 2
+        x: 12294
+        y: 0
+        width: 7502
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf87a8d7d22efb70800000000000000
+      internalID: 8934617021197815748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_20
+      rect:
+        serializedVersion: 2
+        x: 13300
+        y: 579
+        width: 254
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0779acf693e3d42e0800000000000000
+      internalID: -2139985831521511568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_21
+      rect:
+        serializedVersion: 2
+        x: 14314
+        y: 657
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6202c96578f56a300800000000000000
+      internalID: 263002663126048806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_22
+      rect:
+        serializedVersion: 2
+        x: 15179
+        y: 625
+        width: 207
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475230d6a9e3d1090800000000000000
+      internalID: -8062218924948511372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_23
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 557
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9deb48b78424dda70800000000000000
+      internalID: 8853305321557638873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_24
+      rect:
+        serializedVersion: 2
+        x: 12028
+        y: 395
+        width: 510
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4bd5d9e01e37b60800000000000000
+      internalID: 7742779637265970349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_25
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 544
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dded407cdcf33e0800000000000000
+      internalID: -2071711048903238376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_26
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 516
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa8e660653c2c130800000000000000
+      internalID: 3585643027582847729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_27
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 506
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72e0e42a18cdcbf0800000000000000
+      internalID: -302365585350532483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_28
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 493
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e749e6fc14e72bf0800000000000000
+      internalID: -349059633045223451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 1452
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b6b076113daf5a0800000000000000
+      internalID: -6486640241577071835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY STAGE 2_30
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 0
+        width: 231
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8508fffe66af1a80800000000000000
+      internalID: -8493887376526408307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SKY STAGE 2_0: 4509905843544693072
+      SKY STAGE 2_1: -892465070389718426
+      SKY STAGE 2_10: -4047278690087735916
+      SKY STAGE 2_11: -1938075240898843998
+      SKY STAGE 2_12: -6797530550907917579
+      SKY STAGE 2_13: -5378019584282734788
+      SKY STAGE 2_14: -7423186513109261313
+      SKY STAGE 2_15: 6301184973218720225
+      SKY STAGE 2_16: 4445049532339362242
+      SKY STAGE 2_17: -6410491167371863847
+      SKY STAGE 2_18: -4506489236725772845
+      SKY STAGE 2_19: 8934617021197815748
+      SKY STAGE 2_2: -3546937949879804159
+      SKY STAGE 2_20: -2139985831521511568
+      SKY STAGE 2_21: 263002663126048806
+      SKY STAGE 2_22: -8062218924948511372
+      SKY STAGE 2_23: 8853305321557638873
+      SKY STAGE 2_24: 7742779637265970349
+      SKY STAGE 2_25: -2071711048903238376
+      SKY STAGE 2_26: 3585643027582847729
+      SKY STAGE 2_27: -302365585350532483
+      SKY STAGE 2_28: -349059633045223451
+      SKY STAGE 2_29: -6486640241577071835
+      SKY STAGE 2_3: -6939673387274055018
+      SKY STAGE 2_30: -8493887376526408307
+      SKY STAGE 2_4: -7769678879351876987
+      SKY STAGE 2_5: -4062393649404940297
+      SKY STAGE 2_6: -8303342466106381874
+      SKY STAGE 2_7: 4289260152057112667
+      SKY STAGE 2_8: -5902711537013397383
+      SKY STAGE 2_9: -5642950860029972927
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
